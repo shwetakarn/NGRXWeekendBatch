@@ -1,0 +1,18 @@
+{
+    "customers":[
+    {    
+    "name":"sandeep karan",
+    "phone":"9654166695",
+    "address":"noida",
+    "membership":"platinum",
+    "id":1
+    },
+    {
+    "name":"sandeep karan",
+    "phone":"9654166695",
+    "address":"noida",
+    "membership":"platinum",
+    "id":1
+    }
+  ]
+}
